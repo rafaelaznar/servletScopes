@@ -9,7 +9,7 @@
     </head>
     <body>                        
         <h1>Bienvenidos a servlet Scopes</h1>
-        <h3>Un programa sencillo y didáctico para aprender y practicar variable scopes en los servlets<</h3>
+        <h3>Un programa sencillo y didáctico para aprender y practicar variable scopes en los servlets</h3>
         <hr/>
         <p>Instrucciones: debes probar el programa en ejecutando las parejas de sevlets con distintos parámetros en todas las siguientes combinaciones:</p>
         <ul>
